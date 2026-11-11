@@ -1,0 +1,7 @@
+---
+title: "Homework_5"
+author: Jackson Ballard
+output: word_document
+date: Due date: 11/30/2026
+---
+
