@@ -5,3 +5,8 @@ output: word_document
 date: Due date: 11/30/2026
 ---
 
+Add piece of code to list files in `data` subdirectory.
+
+``` {r ls}
+list.files("/Users/jacksonballard/Documents/R Programming for Research/Homework_5/data")
+```
